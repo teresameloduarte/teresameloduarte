@@ -7,7 +7,7 @@ welcome to my GitHub profile! 👩‍💻 🌱
 ## about me
 
 i’m an aspiring **junior full stack developer** with a unique background as a **classical singer**. 
-my journey from interpreting Renaissance polyphony to crafting clean, functional code reflects my love for precision, creativity, and collaboration.
+my journey from interpreting renaissance polyphony to crafting clean, functional code reflects my love for precision, creativity, and collaboration.
 
 ---
 

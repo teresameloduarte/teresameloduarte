@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**teresameloduarte/teresameloduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+welcome to my GitHub profile! 👩‍💻 🌱 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## about me
+
+i’m an aspiring **junior full stack developer** with a unique background as a **classical singer**. 
+my journey from interpreting Renaissance polyphony to crafting clean, functional code reflects my love for precision, creativity, and collaboration.
+
+---
+
+## my skills
+
+🎨 **frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,bootstrap,jquery&theme=light)](https://skillicons.dev)
+
+
+
+⚙️ **backend**
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,&theme=light)](https://skillicons.dev)
+
+
+
+🚀 **extra tools**
+
+[![My Skills](https://skillicons.dev/icons?i=maven,git,postmanidea&theme=light)](https://skillicons.dev)
+
+---
+
+## let’s connect
+
+i’d love to connect and collaborate! 
+feel free to reach out to me through my 📧 email: teresameloduarte@gmail.com.
+
+
+---
+
+⚡ **fun fact**: i spent 10 years tap dancing, and recently, i’ve been loving the energy and challenge of kickboxing! 🥊💃 

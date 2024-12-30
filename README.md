@@ -27,7 +27,7 @@ my journey from interpreting renaissance polyphony to crafting clean, functional
 
 🚀 **extra tools**
 
-[![My Skills](https://skillicons.dev/icons?i=maven,git,postmanidea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,git,postman,idea&theme=light)](https://skillicons.dev)
 
 ---
 

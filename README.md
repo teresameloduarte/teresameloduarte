@@ -31,7 +31,7 @@ my journey from interpreting renaissance polyphony to crafting clean, functional
 
 ---
 
-## let’s connect
+## let’s connect!
 
 i’d love to connect and collaborate! 
 feel free to reach out to me through my 📧 email: teresameloduarte@gmail.com.

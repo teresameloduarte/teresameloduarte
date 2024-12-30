@@ -15,19 +15,19 @@ my journey from interpreting renaissance polyphony to crafting clean, functional
 
 🎨 **frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,css,html,bootstrap,jquery&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=javascript,css,html,bootstrap,jquery&theme=light)
 
 
 
 ⚙️ **backend**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,&theme=light)
 
 
 
 🚀 **extra tools**
 
-[![My Skills](https://skillicons.dev/icons?i=maven,git,postman,idea&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=maven,git,postman,idea&theme=light)
 
 ---
 
